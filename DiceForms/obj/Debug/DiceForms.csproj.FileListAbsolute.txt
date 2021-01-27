@@ -1,0 +1,11 @@
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\obj\Debug\DiceForms.csprojAssemblyReference.cache
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\obj\Debug\DiceForms.DiceRollForm.resources
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\obj\Debug\DiceForms.DieRollForm.resources
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\obj\Debug\DiceForms.Properties.Resources.resources
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\obj\Debug\DiceForms.csproj.GenerateResource.cache
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\obj\Debug\DiceForms.csproj.CoreCompileInputs.cache
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\bin\Debug\DiceForms.exe.config
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\bin\Debug\DiceForms.exe
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\bin\Debug\DiceForms.pdb
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\obj\Debug\DiceForms.exe
+C:\Users\thi-v\OneDrive - University of South Florida\USF Fall 2020\Software System Development\Projects\DiceForms\DiceForms\obj\Debug\DiceForms.pdb
